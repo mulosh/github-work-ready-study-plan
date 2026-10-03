@@ -6,6 +6,8 @@
 **Duration:** 16 weeks  
 **Time commitment:** 8–12 hours per week
 
+> 🎥 **Need the lesson-by-lesson video track?** Use the full curriculum here: [GITHUB_WORK_READY_VIDEO_CURRICULUM.md](GITHUB_WORK_READY_VIDEO_CURRICULUM.md)
+
 ## Goal
 
 Become ready to work with GitHub in a real software team. By the end, you should be able to use Git, collaborate through pull requests, manage work with issues and projects, troubleshoot GitHub Actions, deploy a site, apply basic repository security practices, contribute to open source, and present verifiable work to employers.
