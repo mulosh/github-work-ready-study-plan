@@ -59,6 +59,42 @@ This plan produces evidence of GitHub and software-development practice. Describ
 - [Open Source Guides](https://opensource.guide/)
 - [Choose an open-source license](https://choosealicense.com/)
 
+## Video learning resources
+
+Use video as a supplement to hands-on practice and official documentation—not as a replacement.
+
+### Curated training by topic
+
+- **Git and GitHub fundamentals**
+  - [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- **GitHub Foundations**
+  - [GitHub Foundations learning path (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/github-foundations/)
+- **GitHub Actions**
+  - [GitHub training hub (Microsoft Learn)](https://learn.microsoft.com/en-us/training/github/)
+  - Focus modules:
+    - `Automate development tasks by using GitHub Actions`
+    - `Build continuous integration workflows by using GitHub Actions`
+- **GitHub Projects and collaboration**
+  - Use the [GitHub training hub (Microsoft Learn)](https://learn.microsoft.com/en-us/training/github/) and [GitHub Foundations learning path](https://learn.microsoft.com/en-us/training/paths/github-foundations/) for modules covering GitHub flow, issues, pull requests, and contribution workflows; pair them with this plan's Projects and issue-tracking practice.
+- **Security**
+  - Use the [GitHub training hub (Microsoft Learn)](https://learn.microsoft.com/en-us/training/github/) and complete GitHub Advanced Security modules focused on code scanning, Dependabot, and secret scanning.
+
+### Watch-and-practice method
+
+1. Watch a short segment (about 10–20 minutes).
+2. Pause and reproduce the same workflow in your practice repository.
+3. Record commands used and lessons learned in your notes.
+4. Link that evidence to the relevant weekly deliverable in this plan.
+
+### Weekly video checklist
+
+- [ ] **Weeks 1–2:** Git and GitHub fundamentals video + GitHub Foundations basics
+- [ ] **Weeks 3–4:** Collaboration modules (issues, pull requests, review workflows)
+- [ ] **Weeks 5–8:** Projects/planning collaboration modules + open-source contribution guidance
+- [ ] **Weeks 9–10:** GitHub Actions modules (`Automate development tasks...`, `Build continuous integration workflows...`)
+- [ ] **Weeks 11–12:** GitHub Advanced Security modules (code scanning, Dependabot, secret scanning)
+- [ ] **Weeks 13–16:** Open-source contribution, portfolio communication, and final review videos
+
 ---
 
 # Portfolio repositories
