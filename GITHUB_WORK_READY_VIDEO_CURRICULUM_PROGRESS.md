@@ -20,11 +20,15 @@ The learner reports that all lessons **L01–L64** have been completed. This rec
 - **Pages workflow evidence:** [`stargazers-log` commit 676412d](https://github.com/mulosh/stargazers-log/commit/676412df49a7e1f5ed60222813751571fc4a1e46), “Add GitHub Actions workflow for GitHub Pages deployment.”
 - **Responsive web work:** [`stargazers-log` PR #5](https://github.com/mulosh/stargazers-log/pull/5), “Update index.html,” merged September 30, 2026.
 
+### Week 3 / Issues and pull request collaboration
+
+- **Issue update practice (feature request to implementation checklist):** [`mulosh/github-work-ready-study-plan` issue #70](https://github.com/mulosh/github-work-ready-study-plan/issues/70), “Update game to use new rendering engine,” with linked checklist items including [octo-org/octo-repo issue #1752](https://github.com/octo-org/octo-repo/issues/1752) and the game-logic task “Update aliens and cannon game logic.”
+
 ## Current recorded status
 
 - **Self-reported lessons complete:** 64 / 64
-- **Lessons with directly located GitHub evidence:** Week 1-related work and supporting practice evidence
-- **Lessons with no directly located evidence in the searched repositories:** L05–L64, pending additional links, commits, issues, workflow runs, releases, screenshots, or notes
+- **Lessons with directly located GitHub evidence:** Week 1-related work and supporting practice evidence, plus one Week 3 issue/comment-checklist artifact
+- **Lessons with no directly located evidence in the searched repositories:** Most lessons L05–L64 are still pending additional links, commits, issues, workflow runs, releases, screenshots, or notes
 - **Curriculum source file:** unchanged; this progress record is kept separately so the original lesson plan remains readable and auditable.
 
 ## Evidence standard
